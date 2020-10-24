@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "621593902624",
+    "firebase_url": "https://sklep-online-39db6.firebaseio.com",
+    "project_id": "sklep-online-39db6",
+    "storage_bucket": "sklep-online-39db6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621593902624:android:f1d2f03e919c954a06c645",
+        "android_client_info": {
+          "package_name": "com.nikolacichewicz.sklep_online"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621593902624-nfuhf2fokemfbf64id2rv775ot6r7h50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7V0iOL0kiSmD89tIlHSO8KonfR2ubpKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621593902624-nfuhf2fokemfbf64id2rv775ot6r7h50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
